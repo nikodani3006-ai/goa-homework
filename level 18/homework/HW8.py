@@ -1,4 +1,4 @@
 # შექმენი სია სადაც შეინახავ მხოლოდ ბულეან ტიპის მონაცემებს
 
-list = ["true,false"]
+list = [True,False]
 print(list)
