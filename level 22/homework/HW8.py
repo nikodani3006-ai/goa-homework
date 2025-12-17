@@ -3,5 +3,5 @@
 # შენი დავალებაა რომ სიაში მყოფი პირველ ინდექსზე მდგომი ელემენტი შეცვლაო მომხმარებლის მიერ შემოტანილი მნიშვნელობით
 list = ["a", "b", "c"]
 letter = input("Enter any letter:")
-list[0] = letter
+list[1] = letter
 print(list)
