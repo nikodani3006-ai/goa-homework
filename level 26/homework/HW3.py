@@ -4,7 +4,11 @@ list = []
 jami = 0
 
 while jami <= 100:
-     num = int(input("Enter random numbers:"))
-     list.append(num)
-     jami += num
+      
+      num = int(input("Enter random numbers:"))
+
+      list.append(num)
+
+      jami += num
+
 print(list,jami)
