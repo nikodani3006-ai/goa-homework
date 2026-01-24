@@ -2,9 +2,9 @@
 names = ["nika","dato","KIRA","zviadi","Gela"]
 words = []
 for name in names:
-     if name.islower() and name.startswith("d"):
+     if name.lower() and name[0] == "d":
          words.append("NIKA")
-     elif name.isupper() or name.startswith("K"):
+     elif name.upper() or name[0] =="K":
          words.append("GOGA")
      else:
          words.append("LIDER") 

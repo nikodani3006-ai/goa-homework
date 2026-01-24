@@ -5,7 +5,7 @@ words = ["GEORGIA","usa","Spain","Jamaica","india"]
 i = 0
 
 while i < len(words):
-     if words[i].isupper:
+     if words[i].upper:
          words.pop(i)
          i = i + 1
      else:
