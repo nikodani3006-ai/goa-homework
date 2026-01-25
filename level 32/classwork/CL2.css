@@ -1,0 +1,26 @@
+.idk {
+
+     color: red;
+     background-color: purple;
+     font-size: 30px;
+
+}
+.idk2 {
+
+     color: blue;
+     background-color: yellow;
+     font-size: 50 px;
+
+}
+.idk3 {
+
+     color: pink;
+     font-size: 30px;
+     background-color: green ;
+
+}
+.same {
+
+     border: solid red 2px;
+
+}
