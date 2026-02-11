@@ -3,5 +3,9 @@
 sia = [21,34,124,4534,2,314,1432,42]
 
 def greet(sia):
-     return sum(sia) / len(sia)
+     total = 0
+     for i in sia:
+        total += i
+                 
+     return total / len(sia)
 print(greet(sia))
