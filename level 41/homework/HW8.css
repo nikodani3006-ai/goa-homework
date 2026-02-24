@@ -1,0 +1,10 @@
+div:hover{
+
+     background-color: red;
+
+}
+div:active {
+
+     border: solid green 5px;
+
+}

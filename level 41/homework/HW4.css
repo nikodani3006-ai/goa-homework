@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+ol {
+
+     font-family:"Oswald",serif;
+
+}
+li:hover {
+
+     background-color: Purple;
+
+}
