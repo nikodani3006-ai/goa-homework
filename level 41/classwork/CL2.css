@@ -1,0 +1,32 @@
+#d {
+
+     color: green;
+     font-size: 35px;
+     font-weight: 200;
+
+}
+#d:hover {
+
+     color: red;
+     font-size:50px ;
+     font-weight: 800;
+
+} 
+#dd {
+
+     color: purple;
+     font-size: 15px;
+     font-weight: 300;
+
+}
+#dd:active {
+
+     color: yellow;
+     font-size: 44px;
+     font-weight: 900;
+     text-shadow: 1px 1px 2px grey;
+
+}
+
+    
+
