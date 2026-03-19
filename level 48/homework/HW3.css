@@ -1,0 +1,13 @@
+.d{
+
+     width: 500px;
+     display: flex;
+     flex-direction: row;
+     border: 5px dashed darkolivegreen;    
+
+}
+.dd{
+
+     border: 4px double black;
+
+}

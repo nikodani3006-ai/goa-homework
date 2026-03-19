@@ -1,0 +1,13 @@
+.idk{
+
+     border: 5px dashed blue;
+     width: 500px;
+     display: flex;
+     justify-content: end;
+
+}
+.dd{
+
+     border: 4px double red;
+
+}

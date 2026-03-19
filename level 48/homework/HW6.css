@@ -1,0 +1,17 @@
+.idk{
+
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     border: 7px dashed yellow;
+     height: 500px;
+     width: 500px;
+
+}
+.dd {
+
+     border: 4px solid green;
+     color: blue;
+     height: 500px;
+     width: 500px;
+}
