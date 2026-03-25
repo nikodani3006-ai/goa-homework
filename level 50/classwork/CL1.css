@@ -1,0 +1,19 @@
+.d {
+
+     width: 600px;
+     height: 600px;
+     background-color: black;
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+
+}
+.dd {
+
+     background-color: purple;
+     color: black;
+     width: 150px;
+     height: 150px;
+     align-items: center;
+
+}

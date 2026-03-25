@@ -5,6 +5,7 @@
      display: flex;
      justify-content: center;
      align-items: center;
+     flex-direction: column-reverse;
      background-color: aqua;
      border: 4px double purple;
 
