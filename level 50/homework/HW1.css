@@ -1,1 +1,39 @@
-.
+.d1 {
+
+     background-color: purple;
+     display: flex;
+     justify-content: space-between;
+     border: 2px solid black;
+}
+.d2 {
+
+     background-color: purple;
+     display: flex;
+     justify-content: space-around;
+     border: 2px solid black;
+
+}
+.d3 {
+
+
+     background-color: purple;
+     display: flex;
+     justify-content: space-evenly;
+     border: 2px solid black;
+
+}
+.dd {
+
+     width: 150px;
+     height: 150px;
+     background-color: peru;
+     border: 2px solid black;
+ 
+
+}
+body{
+
+     background-color: rgb(66, 9, 66);
+ 
+
+}
