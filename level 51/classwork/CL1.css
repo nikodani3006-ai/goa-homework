@@ -1,0 +1,31 @@
+.parent {
+
+     width: 600px;
+     height: 600px;
+     border: 5px double green;
+     border-radius: 50px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 20px;
+     background-color: black;
+}
+#dd {
+
+     
+     align-self: end;
+
+}
+.child {
+
+     background-color: purple;
+     width: 150px;
+     height: 150px;
+  
+
+}
+#d {
+
+     align-self: start;
+
+}
