@@ -1,0 +1,23 @@
+.parent {
+
+     display: flex;
+
+}
+.child {
+      background-color: black;
+
+}
+#d {
+     flex-basis:100px ;
+}
+#dd{
+     flex-basis: 200px;
+
+}
+#ddd {
+     flex-basis: 300px;
+
+}
+#dddd {
+     flex-basis: 150px;
+}

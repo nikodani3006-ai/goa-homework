@@ -1,0 +1,21 @@
+.parent{
+
+     width: 600px;
+     height: 600px;
+     background-color: green;
+     display: flex;
+
+}
+.child {
+
+     width: 150px;
+     height: 150px;
+     background-color: purple;
+
+}
+#dd:hover {
+
+     background-color: black;
+     flex-grow: 1;
+
+}

@@ -1,0 +1,21 @@
+.parent {
+
+     display: flex;
+     width:400px;
+
+}
+.child{
+     background-color: aqua;
+}
+#dd{
+     flex-basis: 200px;
+     flex-shrink: 0;
+}
+#ddd{
+     flex-basis: 200px;
+     flex-shrink: 1;
+}
+#d{
+     flex-basis: 200px;
+     flex-shrink: 1;
+}

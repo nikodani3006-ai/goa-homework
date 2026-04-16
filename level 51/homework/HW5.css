@@ -1,0 +1,19 @@
+.parent {
+
+     background-color: green;
+     display: flex;
+
+
+}
+.child {
+    
+     width: 100px;
+     background-color: yellow;
+
+}
+#d {
+
+     flex-grow: 1;
+     border: 1px solid red;
+
+}

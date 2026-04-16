@@ -1,0 +1,15 @@
+.parent{
+     display: flex;
+}
+#d{
+     flex-basis: 150px;
+     background-color: aqua;
+}
+#dd {
+     flex-basis: 150px;
+     background-color: yellow;
+}
+#ddd{
+     flex-basis: 150px;
+     background-color: green;
+}
