@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:ital,wght@0,100..900;1,100..900&display=swap');
+*{
+      margin: 0px;
+      padding: 0px;
+      box-sizing: border-box;
+}
+
+body{
+      height: 100vh;
+      font-family: "Epilogue", sans-serif;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+}
+
+header{
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      padding: 25px 40px;
+}
+
+#body{
+      width: 1300px;
+      height: 820px;
+}
+
+#headerdiv{
+      display: flex;
+      align-items: center;
+      gap: 55px;
+}
+
+ol{
+      display: flex;
+      align-items: center;
+      gap: 35px;
+      list-style: none;
+      opacity: 90%;
+      font-size: 13px;
+      font-weight: 600;
+      color: rgb(107, 102, 102);
+}
+
+#buttondiv{
+      display: flex;
+      align-items: center;
+      gap: 30px;
+      color: rgb(107, 104, 104);
+}
+
+
+h2{
+      font-size: 30px;
+}
+
+.btn{
+      font-weight: 600;
+      color: rgb(107, 102, 102);  
+      opacity: 90%;
+}
+
+#login {
+      border: none;
+      background-color: white;
+      font-size: 12px;
+}
+
+#register{
+      border: 1px solid black;
+      padding: 10px 18px;
+      border-radius: 12px;
+      font-size: 13px;
+}
+
+#mainimg{
+      width: 450px;
+}
+
+.maindiv{
+      width: 100%;
+      display: flex;
+      align-items: center;
+      gap: 50px;
+}
+
+.textdiv{
+      display: flex;
+      flex-direction: column;
+      gap: 50px;
+      align-items: start;
+      width: 50%;
+
+}
+
+.imgdiv{
+      display: flex;
+      align-items: center;
+      gap: 30px;
+      padding-left: 110px;
+      
+}
+
+h1{
+      font-size: 70px;
+      padding-left: 120px;
+      margin-top: 120px;
+      
+}
+
+#pp{
+      color: rgb(107, 102, 102);   
+      padding: 20px 120px;
+      font-weight: 400;
+}
+
+#llm{
+      border: none;
+      background-color: black;
+      color: white;
+      width: 150px;
+      height: 50px;
+      margin-left: 120px;
+      border-radius: 10px;
+      margin-bottom: 50px;
+      font-weight: 800;
+}
