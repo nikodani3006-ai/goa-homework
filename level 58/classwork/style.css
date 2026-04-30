@@ -11,6 +11,7 @@ body{
       display: flex;
       align-items: center;
       justify-content: center;
+      background-color: black;
 }
 
 header{
@@ -23,6 +24,7 @@ header{
 #body{
       width: 1300px;
       height: 820px;
+      background-color: white;
 }
 
 #headerdiv{
@@ -105,7 +107,7 @@ h1{
       font-size: 70px;
       padding-left: 120px;
       margin-top: 120px;
-      
+      width: 590px;
 }
 
 #pp{

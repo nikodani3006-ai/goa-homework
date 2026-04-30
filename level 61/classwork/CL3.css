@@ -1,0 +1,26 @@
+body{
+     display: flex;
+     justify-self:center;
+     z-index: 6;
+}
+#d{
+     background-color: blue;
+     width: 100px;
+     height: 100px;
+     position: relative;
+}
+#dd{
+     background-color: green;
+     width: 100px;
+     height: 100px;
+}
+#ddd{
+     background-color: red;
+     width: 100px;
+     height: 100px;
+}
+#dddd{
+     background-color: pink;
+     width: 100px;
+     height: 100px;
+}
