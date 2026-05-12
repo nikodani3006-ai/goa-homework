@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap');
+*{
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+     font-family: "Space Grotesk", sans-serif;
+}
+body{
+     height: 100vh;
+     background-color: black;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+
+#bodydiv{
+     background-color: white;
+     width: 1440px;
+     height: 900px;
+}
+
+#sidediv{
+     width: 483px;
+     height: 900px;
+     background-image: url(./interactive-card-details-form-main/images/bg-main-desktop.png);
+}
+
+#carddiv{
+     width: 541px;
+     height: 527px;
+     position: relative;
+     top: 187px;
+     left: 164px;
+}
+
+#card1{
+     width: 447px;
+     height: 245px;
+     background-image: url(./interactive-card-details-form-main/images/bg-card-front.png);
+}
+
+#card2{
+     width: 447px;
+     height: 245px;
+     background-image: url(./interactive-card-details-form-main/images/bg-card-back.png);    
+     position: relative;
+     left: 90px;
+     top: 41px;
+}
+
+#ball{
+      width: 84px;
+      height: 47px;
+      position: absolute;
+      top: 28px;
+      left: 32px;
+}
+
+#p1{
+      width: 400px;
+      height: 36px;
+      position: relative;
+      top: 139px;
+      left: 32px;
+      font-weight: 500;
+      font-size: 28px;
+      letter-spacing: 3.42px;
+      color: white;
+}
+
+#ps{
+      width: 383px;
+      height: 18px;
+      position: relative;
+      top: 168.5px;
+      left: 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      color: white;
+      font-size: 14px;
+      font-weight: 500;
+      letter-spacing: 2px;
+      opacity: 80%;
+}
+
+#p2{
+      width: 32px;
+      height: 18px;
+      color: white;
+      position: relative;
+      left: 357px;
+      top: 110px;
+      font-weight: 500;
+      font-size: 14px;
+      letter-spacing: 2px;
+      opacity: 80%;
+}
+
+#inputsdiv{
+      width: 381px;
+      height: 352px;
+      position: relative;
+      bottom: 258px;
+      left: 832px;
+}
+
+.labels{
+      width: 140px;
+      height: 15px;
+      font-weight: 500;
+      font-size: 12px;
+      letter-spacing: 2px;
+}
+
+.inputs{
+      width: 381px;
+      height: 45px;
+      border-radius: 8px;
+      border: 1px solid lightgray;
+      margin-top: 9px;
+}
+
+.dd{
+       width: 80px;
+       height: 45px;
+       border-radius: 8px;
+       border: 1px solid  hsl(212, 12%, 71%);
+}
+
+.ddd{
+       width: 80px;
+       height: 45px;
+       border-radius: 8px;
+       border: 1px solid  hsl(212, 12%, 71%);
+}
+
+#DDDD{
+
+       width: 140px;
+       height: 15px;
+       font-weight: 500;
+       font-size: 12px;
+       letter-spacing: 2px;
+}
+
+
+
+#cvcc{
+       position: relative;
+       bottom: 34px;
+       left: 24px;
+}
+#cvc{
+       width: 191px;
+       height: 45px;
+       position: relative;
+       bottom: 45px;
+       left: 190px;
+       border: 1px solid  hsl(212, 12%, 71%);;
+       border-radius: 8px;
+}
+
+#button{
+       width: 381px;
+       height: 53px;
+       background-color: hsl(278, 68%, 11%);
+       border: none;
+       border-radius: 8px;
+       color: white;
+       font-weight: 500;
+       font-size: 18px;
+}
+
+input::placeholder{
+       padding-left: 15px;
+       font-weight: 600;
+       font-size: 18px;
+       opacity: 40%;
+}

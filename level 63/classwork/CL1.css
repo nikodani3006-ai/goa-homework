@@ -1,0 +1,14 @@
+#dd{
+     width: 600px;
+     height: 600px;
+     background-image: url(./Images/642109-slipknot-hd-wallpaper-desktop-and-mobile-image-photo.jpg);
+     background-position: center;
+     background-size: cover;
+}
+
+/* #dd{
+     width: 600px;
+     height: 600px;
+     background: url(./Images/642109-slipknot-hd-wallpaper-desktop-and-mobile-image-photo.jpg) center/cover;
+} */
+ 
