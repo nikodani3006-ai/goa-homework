@@ -1,0 +1,20 @@
+/* შექმენი ღილაკი (button), რომელსაც hover-ზე: ტექსტის ფერი შეიცვალოს 0.2s border-radius გაიზარდოს 0.5s background შეიცვალოს 0.7s background-ის transition დაიწყოს 0.3s დაგვიანებით  */
+button{
+     color: blue;
+     border-radius: 30px;
+     background-color: black;
+     transition: 
+     color 0.2s linear,
+     border-radius 0.5s linear,
+     background-color 7s linear;
+     width: 500px;
+     height: 500px;
+    
+}
+
+button:hover{
+     color: purple;
+     border-radius: 50px;
+     background-color: aqua;
+
+}

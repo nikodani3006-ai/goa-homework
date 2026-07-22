@@ -1,0 +1,19 @@
+/* შექმენი ფოტო (img), რომელსაც hover-ზე:
+opacity შემცირდეს 0.5s
+scale გაიზარდოს 0.7s
+rotate შესრულდეს 1.2s
+rotate-ზე გამოიყენე 0.4s delay */
+
+img{
+     width: 300px;
+     height: 300px;
+     transition: 
+     opacity 0.5s linear,
+     scale 0.7s linear,
+     rotate 1.2s linear 0.4s;
+}
+
+img:hover{
+     opacity: 50%;
+     transform: rotate(150deg) scale(2) ;
+}
